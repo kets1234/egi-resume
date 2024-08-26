@@ -1,0 +1,79 @@
+.skill{
+    color: white;
+}
+
+.skill-list{
+    color: white;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.education-list{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+h2{
+    font-family: cursive;
+}
+
+.school{
+    font-family: cursive;
+}
+
+#degree{
+    font-size: 30px;
+    margin-bottom: -5px;
+}
+
+#school{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.school-year{
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.employment{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-auto-rows: 1.75fr 1fr;
+    margin-bottom: 20px;
+}
+
+.exp{
+    font-size: 25px;
+    font-family: cursive;
+    margin-bottom: 5px;
+}
+
+.responsibilities{
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.employed-year{
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#exp{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.internship{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.certificates{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
